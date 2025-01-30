@@ -4,8 +4,6 @@
 *
 *
 *
-*
-*
  */
 
 
@@ -20,6 +18,8 @@
 
 using namespace std;
 
+
+// Simple printing function for array
 template <typename T>
 void printArray(T arr[], int size) {
     for (int i=0; i<size; i++) {
@@ -28,6 +28,7 @@ void printArray(T arr[], int size) {
     cout << endl;
 }
 
+// Selection Sort implementation
 template <typename T, typename Compare = less<T>>
 void selectionSort(T arr[], int size, Compare comp = Compare()) {
     for(int i=0; i<size-1; i++) {
@@ -43,6 +44,7 @@ void selectionSort(T arr[], int size, Compare comp = Compare()) {
     }
 }
 
+// LinkedList addToHead Method
 void addToHead( List& list, int32_t data ) {
     // create a new link
     Link* link = new Link { nullptr, data };
@@ -58,6 +60,7 @@ void addToHead( List& list, int32_t data ) {
     list.size++;
 }
 
+// LinkedList deleteFromHead Method
 void deleteFromHead( List& list ) {
     if(list.size > 0) {
         if (list.size == 1) {
@@ -72,6 +75,7 @@ void deleteFromHead( List& list ) {
     }
 }
 
+// print Method for linked list
 void print( const List& list ) {
     cout << "{";
     for( Link* link = list.head; link != nullptr; link = link->next ) {
@@ -83,6 +87,8 @@ void print( const List& list ) {
 int main() {
     srand(time(0));
     
+    int k[] {5, 10, 15, 20, 25};
+
     int iterations = 5;
     double timing[iterations] {};
     for(int i=0; i<iterations; i++) {
@@ -126,4 +132,11 @@ int main() {
     }
 
     return 0;
+
+
+
+
+
+
+
 }
