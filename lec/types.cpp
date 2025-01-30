@@ -14,7 +14,6 @@ bool y = b1 || b2; // b1 || b2 is true, so y becomes true
 
 
 // Characters
-
 // Write the digits 0--9 to cout.
 void digits() {
     for(int i=0; i < 10; i++) {
