@@ -1,0 +1,3 @@
+/workspaces/cpsc365/cpp_practice/hw/HW1_Skeleton/CMakeFiles/driver.dir
+/workspaces/cpsc365/cpp_practice/hw/HW1_Skeleton/CMakeFiles/edit_cache.dir
+/workspaces/cpsc365/cpp_practice/hw/HW1_Skeleton/CMakeFiles/rebuild_cache.dir
