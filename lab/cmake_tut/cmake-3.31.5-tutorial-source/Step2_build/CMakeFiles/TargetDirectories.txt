@@ -1,0 +1,7 @@
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/workspaces/cpsc365/cpp_practice/lab/cmake_tut/cmake-3.31.5-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
