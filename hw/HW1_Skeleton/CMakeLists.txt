@@ -1,1 +1,0 @@
-add_executable(driver driver.cpp bst.cpp)
