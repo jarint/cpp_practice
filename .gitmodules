@@ -1,0 +1,3 @@
+[submodule "HW_git/cpsc365"]
+	path = HW_git/cpsc365
+	url = https://gitlab.com/usmanalim/cpsc365.git
